@@ -4,7 +4,7 @@ These materials introduce fundamental concepts of programming through the Python
 
 ## Introduction to Programing with Python–Part 1
 
-[![Open Introduction_to_Programming_in_Python_1 In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NCSU-Libraries/data-viz-workshops/blob/master/Introduction_to_Programming_with_Python/Introduction_to_Programming_with_Python_1.ipynb)
+[![Open Introduction_to_Programming_in_Python_1 In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tmMwxaE8WDeEl_41Mzb1gAnELsKMKODN?usp=sharing)
 
 This Jupyter Notebook covers basic Python syntax, fundamentals of running code in a notebook environment, variables, data types, and functions with several hands-on activities.
 
